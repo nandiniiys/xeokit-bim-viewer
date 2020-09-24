@@ -1,10 +1,10 @@
 {
-    "id": "Project Name",
+    "id": "Mck",
     "name": "MckTest",
     "models": [
         {
-            "id": "3zMLivrqHDeA8SqF8BF0CA",
-            "name": "MckTest design"
+            "id": "design",
+            "name": "Mck Test design"
         }
     ],
     "viewerConfigs": {
